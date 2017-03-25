@@ -1,1 +1,2 @@
 x +=CharacterSpeed;
+CharacterFacing = "right";
