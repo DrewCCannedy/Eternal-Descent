@@ -1,3 +1,4 @@
 if!(instance_exists(Enemy)){
-	room_goto(WinScreen);
+	if(room_get_name(room) == "MainGame")
+		room_goto(WinScreen);
 }

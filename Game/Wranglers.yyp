@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "108acb3e-5c4a-4bf7-98a7-173c124c94ee",
+            "Value": {
+                "id": "e88229ac-8060-4540-9b7c-6b1517b10162",
+                "resourcePath": "rooms\\Menu\\Menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "129f9947-f2ec-487b-906d-cea44a8962cc",
             "Value": {
                 "id": "e6c08145-6ada-4357-a2fb-a84dbbd75df3",
                 "resourcePath": "views\\129f9947-f2ec-487b-906d-cea44a8962cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "14689e88-3636-4153-86f6-989710329614",
+            "Value": {
+                "id": "6a0b7c50-4ffe-489f-9327-60c0461ad1e7",
+                "resourcePath": "rooms\\Splash\\Splash.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -84,6 +100,14 @@
                 "id": "1ddb3e11-f38a-4a70-9e37-408c25fa1432",
                 "resourcePath": "objects\\Spawner\\Spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4f5ac0bc-0136-406c-8b3f-4d60eb3dc728",
+            "Value": {
+                "id": "c0b5b00d-031a-4a57-97ea-6a689258cf85",
+                "resourcePath": "sprites\\spr_SplashDemo\\spr_SplashDemo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,11 +199,27 @@
             }
         },
         {
+            "Key": "b0400d16-43f9-4c41-9c9e-b548ecb3b3ce",
+            "Value": {
+                "id": "8d73c222-dca8-49d0-a4d9-887cfeed2659",
+                "resourcePath": "sprites\\spr_Play\\spr_Play.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b49106a8-01fe-4495-85c4-155716f3ed86",
             "Value": {
                 "id": "1f4c002c-afae-48e5-9d24-a6ff98ac9f2c",
                 "resourcePath": "views\\b49106a8-01fe-4495-85c4-155716f3ed86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bdedcf8f-7a52-4cf3-8b98-dd0cc120fa0c",
+            "Value": {
+                "id": "3662af20-7005-4d8d-a0d5-a1fe39da873b",
+                "resourcePath": "objects\\PlayButton\\PlayButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
