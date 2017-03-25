@@ -5,6 +5,10 @@ if(level == 0){
 if(enemiesKilled == 1){
 	level = 1;
 }
+if(enemiesKilled == 3){
+	room_goto(WinScreen);
+	instance_deactivate_all(MainGame);
+}
 
 if(level == 1){
 	if(onLevel[1] == true){

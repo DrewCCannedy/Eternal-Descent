@@ -319,14 +319,6 @@
             }
         },
         {
-            "Key": "c81a6746-20bf-4019-b3f0-05a8a2c0e3d0",
-            "Value": {
-                "id": "c4e10e5e-1cde-46ad-a111-59fb4a5a64b7",
-                "resourcePath": "objects\\Character\\Character.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cae177bd-bbe2-40b5-a653-d0ca1ea60a58",
             "Value": {
                 "id": "e29d6593-81ce-44af-8f2a-0f83cd21a412",
