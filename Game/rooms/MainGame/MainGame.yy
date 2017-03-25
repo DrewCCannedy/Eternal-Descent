@@ -45,8 +45,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_6B99964C",
-                    "x": 384,
-                    "y": 448,
+                    "x": 544,
+                    "y": 480,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
@@ -170,9 +170,9 @@
             "wport": 1024,
             "wview": 400,
             "xport": 0,
-            "xview": 0,
+            "xview": 320,
             "yport": 0,
-            "yview": 0
+            "yview": 330
         },
         {
             "id": "d6a7c235-c201-470d-bd0e-040cd27627d1",
