@@ -1,3 +1,8 @@
+loops
+
+We have a:
+
+
 1.Player Character
 	Movement
 	Attack
@@ -7,8 +12,12 @@
 	Different types
 	Attack
 
+
 3. Upgrade System
 	Improve with each child
+
+
+
 
 4. Legacy System
 	New kid emerges with new shit
