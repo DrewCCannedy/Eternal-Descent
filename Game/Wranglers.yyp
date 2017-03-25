@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1ed96c43-3e14-4d0d-b4e4-5a2d909f9cf2",
+            "Value": {
+                "id": "af959a85-194b-4bfb-ae98-fee771e7dd89",
+                "resourcePath": "objects\\WinScreen\\WinScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "20dc7b08-fb13-4afa-946c-f9e2ca677dd7",
             "Value": {
                 "id": "273f31b6-bea2-4146-ae27-0096218bc971",
@@ -164,14 +172,6 @@
                 "id": "c0b5b00d-031a-4a57-97ea-6a689258cf85",
                 "resourcePath": "sprites\\spr_SplashDemo\\spr_SplashDemo.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4fc7d197-814a-4f6c-b0d1-ff9be453b3a0",
-            "Value": {
-                "id": "54b5af31-c7f0-4b93-8323-5c9887580da5",
-                "resourcePath": "rooms\\WinScreen\\WinScreen.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

@@ -6,8 +6,8 @@ if(enemiesKilled == 1){
 	level = 1;
 }
 if(enemiesKilled == 3){
-	room_goto(WinScreen);
-	instance_deactivate_all(MainGame);
+	show_debug_message("heybud");
+	instance_create_depth(512,512,-10,WinScreen);
 }
 
 if(level == 1){
