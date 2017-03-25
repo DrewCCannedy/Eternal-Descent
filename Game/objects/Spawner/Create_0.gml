@@ -1,1 +1,1 @@
-instance_create_depth(x,y,depth,Enemy1);
+instance_create_depth(x,y,depth,Enemy_Bow);
