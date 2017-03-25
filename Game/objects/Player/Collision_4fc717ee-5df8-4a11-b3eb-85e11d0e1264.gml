@@ -1,4 +1,4 @@
-bouncBack = 64;
+bouncBack = 1;
 
 if(Player.CharacterFacing == "right"){
 	x -= bouncBack;
