@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "52b9cd23-b352-41ff-baed-0c74a3116ce7",
+            "Value": {
+                "id": "61d6f459-f25a-4b83-bc80-37514ba80435",
+                "resourcePath": "scripts\\EnemyAttack\\EnemyAttack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5a63933e-7bf9-4841-b48d-d7d07b57f49e",
             "Value": {
                 "id": "a40498d3-f50d-4ac9-81ed-cab9ad287a41",
@@ -309,10 +317,19 @@
                 "resourcePath": "views\\fa82e4d4-1ea8-478c-930f-0ff884d2fa2f.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fc980844-972b-4009-85b4-896665feb4b3",
+            "Value": {
+                "id": "b9f62f2c-fada-4509-a507-d02ff8767900",
+                "resourcePath": "objects\\EnemySwipe\\EnemySwipe.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        "e74440c3-162c-41d4-80a3-8eadf0bdbfac"
+        "e74440c3-162c-41d4-80a3-8eadf0bdbfac",
+        "52b9cd23-b352-41ff-baed-0c74a3116ce7"
     ],
     "tutorial": ""
 }
