@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "3aeed05d-3883-4d6b-8e91-18f76e9c7540",
+            "Value": {
+                "id": "5c1a75d4-ade1-497e-baa2-f71869afb092",
+                "resourcePath": "scripts\\EnemyMovement\\EnemyMovement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3c6a7d3b-ebd9-426b-a5fc-1fc35eb30f36",
             "Value": {
                 "id": "8cd8a0a5-5b98-4a8b-a607-7bc5f2517b88",
@@ -311,27 +319,11 @@
             }
         },
         {
-            "Key": "db5bdaed-724b-46e8-ab38-677b14d8d978",
-            "Value": {
-                "id": "d30e3d6e-ddfb-4179-9523-94aae41ac7d4",
-                "resourcePath": "scripts\\Level1\\Level1.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e130f593-4782-4452-bf84-d882906f845e",
             "Value": {
                 "id": "2a5a9fd1-a161-4aa6-9b34-7ee2f8c2f284",
                 "resourcePath": "views\\e130f593-4782-4452-bf84-d882906f845e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e74440c3-162c-41d4-80a3-8eadf0bdbfac",
-            "Value": {
-                "id": "10e17e23-f8bc-4a18-904f-be2e8e0c7c96",
-                "resourcePath": "scripts\\EnemyMovement\\EnemyMovement.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -408,10 +400,9 @@
         }
     ],
     "script_order": [
-        "e74440c3-162c-41d4-80a3-8eadf0bdbfac",
         "52b9cd23-b352-41ff-baed-0c74a3116ce7",
         "50a52ce9-fdc2-491a-a534-415f2666d241",
-        "db5bdaed-724b-46e8-ab38-677b14d8d978"
+        "3aeed05d-3883-4d6b-8e91-18f76e9c7540"
     ],
     "tutorial": ""
 }

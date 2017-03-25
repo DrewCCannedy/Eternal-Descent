@@ -4,13 +4,13 @@ if(level == 0){
 
 if(enemiesKilled == 1){
 	level = 1;
-	level[1] = true;
 }
 
 if(level == 1){
-	if(level[1] == true){
-		instance_create_depth(925,515,0,Enemy_Sword_Spawner);
-		level[1] = false;
+	if(onLevel[1] == true){
+	instance_create_depth(925,515,0,Enemy_Sword_Spawner);
+	instance_create_depth(94,515,0,Enemy_Bow_Spawner);
+		onLevel[1] = false;
 	}
 }
 
