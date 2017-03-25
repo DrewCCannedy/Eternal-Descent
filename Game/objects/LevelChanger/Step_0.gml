@@ -15,6 +15,11 @@ if(level == 1){
 }
 
 if!(instance_exists(Player)){
-	if(room_get_name(room) == "MainGame")
+	if(room_get_name(room) == "MainGame"){
 		room_goto(Menu);
+		enemiesKilled = 0;
+		level = 0;
+		onLevel[0] = true;
+		onLevel[1] = true;
+	}
 }

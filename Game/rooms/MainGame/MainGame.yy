@@ -141,7 +141,7 @@
             "hspeed": 0,
             "htiled": false,
             "spriteId": "178a625f-a9b1-4a31-94fc-fbd325fbf38c",
-            "stretch": false,
+            "stretch": true,
             "userdefined_animFPS": false,
             "vspeed": 0,
             "vtiled": false,
