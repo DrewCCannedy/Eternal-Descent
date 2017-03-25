@@ -10,7 +10,11 @@
         "908b789e-7644-4ac3-954e-d77b9245c842",
         "c81a6746-20bf-4019-b3f0-05a8a2c0e3d0",
         "48a2e50e-5e87-497d-8ddc-fa1404032c10",
+<<<<<<< HEAD
         "e3fc76be-306a-483c-881e-dd1f4f56a52d"
+=======
+        "47e2441e-f977-451a-bc7b-be75476b4c50"
+>>>>>>> refs/remotes/origin/master
     ],
     "filterType": "GMObject",
     "folderName": "objects",

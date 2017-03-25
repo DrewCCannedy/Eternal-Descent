@@ -1,1 +1,2 @@
 y +=CharacterSpeed;
+CharacterFacing = "down";
