@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "374d03d5-2734-46d9-8111-291c4bbaebf2",
+            "Value": {
+                "id": "7b15206b-9a76-49e0-96c5-dd78cd4c1874",
+                "resourcePath": "objects\\Player\\Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c6a7d3b-ebd9-426b-a5fc-1fc35eb30f36",
             "Value": {
                 "id": "8cd8a0a5-5b98-4a8b-a607-7bc5f2517b88",
@@ -68,6 +76,14 @@
                 "id": "e9699659-76bb-4e9c-b270-11d5c2a3eb01",
                 "resourcePath": "views\\6473bb33-7e63-43bb-b151-43b8bf0d4bbd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6489edc1-2155-4781-a3b6-d7f79b9fe7d1",
+            "Value": {
+                "id": "d115dc61-98f7-4061-a511-2b11c8fe6d3e",
+                "resourcePath": "sprites\\spr_Player\\spr_Player.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -146,7 +162,7 @@
             "Key": "f246c70b-9c15-489b-99a7-ac9016802396",
             "Value": {
                 "id": "0bcfdaed-c417-4a28-a020-388a9bea53d0",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\MainGame\\MainGame.yy",
                 "resourceType": "GMRoom"
             }
         },

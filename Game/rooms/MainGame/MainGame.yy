@@ -2,14 +2,14 @@
     "id": "f246c70b-9c15-489b-99a7-ac9016802396",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "room0",
+    "name": "MainGame",
     "IsDnD": false,
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        
+        "3b6fe83d-45d5-4b8e-929e-846fc0009cc6"
     ],
     "layers": [
         {
@@ -35,7 +35,30 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                
+                {
+                    "id": "3b6fe83d-45d5-4b8e-929e-846fc0009cc6",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_6B99964C",
+                    "x": 512,
+                    "y": 352,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_6B99964C",
+                    "objId": "374d03d5-2734-46d9-8111-291c4bbaebf2",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
             ]
         },
         {
