@@ -24,9 +24,10 @@ if(instance_exists(Player)){
 	if(attacks >= CharacterAttackSpeed and (x > Player.x-offset and
 						x < Player.x+offset) or (y < Player.y-offset and
 						y > Player.y+offset))//determines when the enemy attacks
-		EnemyAttack();
+		Enemy_Sword_Attack();
 
 	if(CharacterHealth <= 0){
 		instance_destroy();
+		LevelChanger.enemiesKilled +=1;
 	}
 }
