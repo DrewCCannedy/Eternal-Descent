@@ -159,6 +159,22 @@
             }
         },
         {
+            "Key": "b94dda81-5e10-428b-b7ee-8827a4910041",
+            "Value": {
+                "id": "4da1a026-1a89-4987-9985-7a785cdf5591",
+                "resourcePath": "sprites\\prop\\prop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc881aec-94b0-4911-938e-55f5f45c7519",
+            "Value": {
+                "id": "b62efd94-e39e-4096-a3ae-65854e201b2d",
+                "resourcePath": "sprites\\background\\background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c81a6746-20bf-4019-b3f0-05a8a2c0e3d0",
             "Value": {
                 "id": "c4e10e5e-1cde-46ad-a111-59fb4a5a64b7",
@@ -196,6 +212,14 @@
                 "id": "2a5a9fd1-a161-4aa6-9b34-7ee2f8c2f284",
                 "resourcePath": "views\\e130f593-4782-4452-bf84-d882906f845e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3fc76be-306a-483c-881e-dd1f4f56a52d",
+            "Value": {
+                "id": "503ffcff-217c-48cb-95ce-85555fa60fc0",
+                "resourcePath": "objects\\death\\death.yy",
+                "resourceType": "GMObject"
             }
         },
         {
