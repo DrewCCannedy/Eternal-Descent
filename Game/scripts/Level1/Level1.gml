@@ -1,0 +1,1 @@
+instance_create_depth(925,515,0,Enemy_Sword_Spawner);

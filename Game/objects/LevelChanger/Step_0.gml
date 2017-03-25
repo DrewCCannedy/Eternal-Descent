@@ -1,6 +1,17 @@
-if!(instance_exists(Enemy)){
-	if(room_get_name(room) == "MainGame")
-		room_goto(WinScreen);
+if(level == 0){
+	//yeah
+}
+
+if(enemiesKilled == 1){
+	level = 1;
+	level[1] = true;
+}
+
+if(level == 1){
+	if(level[1] == true){
+		instance_create_depth(925,515,0,Enemy_Sword_Spawner);
+		level[1] = false;
+	}
 }
 
 if!(instance_exists(Player)){

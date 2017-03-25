@@ -1,13 +1,13 @@
 {
-    "id": "908b789e-7644-4ac3-954e-d77b9245c842",
+    "id": "fd97c825-98bc-4524-81d3-0a207ce18ea8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Enemy1",
+    "name": "CollisionArena",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "6f44ca4b-1236-4adc-874e-0ea0363f8a10",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "6489edc1-2155-4781-a3b6-d7f79b9fe7d1",
+    "spriteId": "f71075cc-7572-48a0-9d27-9f0b623c6b52",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "52b9cd23-b352-41ff-baed-0c74a3116ce7",
+    "id": "50a52ce9-fdc2-491a-a534-415f2666d241",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "EnemyAttack",
+    "name": "Enemy_Bow_Attack",
     "IsCompatibility": false,
     "IsDnD": false
 }

@@ -1,1 +1,0 @@
-instance_create_depth(x,y,depth,Enemy1);

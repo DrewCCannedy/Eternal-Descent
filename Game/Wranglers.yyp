@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "090d9555-9685-4dd2-8cff-cb4b59fc1d15",
+            "Value": {
+                "id": "8ec519ee-1af7-47c6-9501-39abab47088a",
+                "resourcePath": "objects\\Enemy_Bow\\Enemy_Bow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "108acb3e-5c4a-4bf7-98a7-173c124c94ee",
             "Value": {
                 "id": "e88229ac-8060-4540-9b7c-6b1517b10162",
@@ -106,7 +114,15 @@
             "Key": "48a2e50e-5e87-497d-8ddc-fa1404032c10",
             "Value": {
                 "id": "1ddb3e11-f38a-4a70-9e37-408c25fa1432",
-                "resourcePath": "objects\\Spawner\\Spawner.yy",
+                "resourcePath": "objects\\Enemy_Bow_Spawner\\Enemy_Bow_Spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4cff5aa9-921b-471e-9538-d12b804b4798",
+            "Value": {
+                "id": "db0fb59b-383d-44e0-b75a-0cdf39904923",
+                "resourcePath": "objects\\Enemy_Sword_Spawner\\Enemy_Sword_Spawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -135,10 +151,18 @@
             }
         },
         {
+            "Key": "50a52ce9-fdc2-491a-a534-415f2666d241",
+            "Value": {
+                "id": "0daae6b6-c364-4581-bc03-a856e29c2c0a",
+                "resourcePath": "scripts\\Enemy_Bow_Attack\\Enemy_Bow_Attack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "52b9cd23-b352-41ff-baed-0c74a3116ce7",
             "Value": {
                 "id": "61d6f459-f25a-4b83-bc80-37514ba80435",
-                "resourcePath": "scripts\\EnemyAttack\\EnemyAttack.yy",
+                "resourcePath": "scripts\\Enemy_Sword_Attack\\Enemy_Sword_Attack.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -191,6 +215,14 @@
             }
         },
         {
+            "Key": "821e9f08-407b-4126-81f8-8a02bff7d4d8",
+            "Value": {
+                "id": "d2baa3af-c305-4261-bd18-122c988e3416",
+                "resourcePath": "objects\\Enemy_Bow_Projectile\\Enemy_Bow_Projectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "875e855f-ee09-480d-8fb9-205fb5da6b2f",
             "Value": {
                 "id": "0d71e78f-0734-43a1-a791-5fe32458e527",
@@ -202,7 +234,7 @@
             "Key": "908b789e-7644-4ac3-954e-d77b9245c842",
             "Value": {
                 "id": "20bee49e-bad9-414f-8e53-988c51c2456a",
-                "resourcePath": "objects\\Enemy1\\Enemy1.yy",
+                "resourcePath": "objects\\Enemy_Sword\\Enemy_Sword.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "db5bdaed-724b-46e8-ab38-677b14d8d978",
+            "Value": {
+                "id": "d30e3d6e-ddfb-4179-9523-94aae41ac7d4",
+                "resourcePath": "scripts\\Level1\\Level1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e130f593-4782-4452-bf84-d882906f845e",
             "Value": {
                 "id": "2a5a9fd1-a161-4aa6-9b34-7ee2f8c2f284",
@@ -319,6 +359,14 @@
             }
         },
         {
+            "Key": "f71075cc-7572-48a0-9d27-9f0b623c6b52",
+            "Value": {
+                "id": "a4c70c15-be1b-4739-ba1c-9b98949c3916",
+                "resourcePath": "sprites\\spri_CollisonArena\\spri_CollisonArena.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f94d9b6e-714f-4a6e-bc5f-c535cb1c5890",
             "Value": {
                 "id": "050d1696-3fb7-4ffd-a5ba-9430ac0655a5",
@@ -349,11 +397,21 @@
                 "resourcePath": "objects\\EnemySwipe\\EnemySwipe.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "fd97c825-98bc-4524-81d3-0a207ce18ea8",
+            "Value": {
+                "id": "f94cd29b-c06b-496c-8db1-215189f1268a",
+                "resourcePath": "objects\\CollisionArena\\CollisionArena.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
         "e74440c3-162c-41d4-80a3-8eadf0bdbfac",
-        "52b9cd23-b352-41ff-baed-0c74a3116ce7"
+        "52b9cd23-b352-41ff-baed-0c74a3116ce7",
+        "50a52ce9-fdc2-491a-a534-415f2666d241",
+        "db5bdaed-724b-46e8-ab38-677b14d8d978"
     ],
     "tutorial": ""
 }
