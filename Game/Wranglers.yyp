@@ -63,11 +63,35 @@
             }
         },
         {
+            "Key": "3ca01bfd-0273-4670-b834-87514d9220d3",
+            "Value": {
+                "id": "8251891d-518e-42ff-b225-b547d5d59127",
+                "resourcePath": "sprites\\WinScreenDemo\\WinScreenDemo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "47e2441e-f977-451a-bc7b-be75476b4c50",
+            "Value": {
+                "id": "44ce66d6-268a-448e-b21c-4704deadcad7",
+                "resourcePath": "objects\\LevelChanger\\LevelChanger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48a2e50e-5e87-497d-8ddc-fa1404032c10",
             "Value": {
                 "id": "1ddb3e11-f38a-4a70-9e37-408c25fa1432",
                 "resourcePath": "objects\\Spawner\\Spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4fc7d197-814a-4f6c-b0d1-ff9be453b3a0",
+            "Value": {
+                "id": "54b5af31-c7f0-4b93-8323-5c9887580da5",
+                "resourcePath": "rooms\\WinScreen\\WinScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
