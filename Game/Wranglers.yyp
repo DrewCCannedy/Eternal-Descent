@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "4e17ddf1-9834-4669-96b5-6b8c3c9fa626",
+            "Value": {
+                "id": "5c8dd1f7-70a2-4b7a-835c-b3b623f33559",
+                "resourcePath": "objects\\NameGenerator\\NameGenerator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f5ac0bc-0136-406c-8b3f-4d60eb3dc728",
             "Value": {
                 "id": "c0b5b00d-031a-4a57-97ea-6a689258cf85",
