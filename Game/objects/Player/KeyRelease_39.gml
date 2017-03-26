@@ -1,6 +1,8 @@
-if(canSwipe) {
-sprite_index = spr_Player_idleRight;
+if(dying = false) {
+	if(canSwipe) {
+	sprite_index = spr_Player_idleRight;
+	}
+	//image_index = 0;
+	//image_speed = 0;
+	walking = false;
 }
-//image_index = 0;
-//image_speed = 0;
-walking = false;

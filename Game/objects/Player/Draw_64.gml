@@ -11,3 +11,8 @@ yExperience = camera_get_view_border_y(view_camera[0])+625;
 
 draw_set_color(c_black);
 draw_text(xExperience,yExperience,"Experience: " + string(CharacterStats.CharacterXP));
+
+xWave = camera_get_view_border_x(view_camera[0])+750;
+yWave = camera_get_view_border_y(view_camera[0])+625;
+
+draw_text(xWave,yWave,"Level " + string(LevelChanger.level + 1));
