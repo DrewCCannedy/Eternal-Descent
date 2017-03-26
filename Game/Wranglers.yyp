@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "5693147a-982b-4727-b44e-781f98beb966",
+            "Value": {
+                "id": "da6efaff-b812-4b5d-9aa4-f875058df979",
+                "resourcePath": "sprites\\spr_skeleton_projectile\\spr_skeleton_projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5a63933e-7bf9-4841-b48d-d7d07b57f49e",
             "Value": {
                 "id": "a40498d3-f50d-4ac9-81ed-cab9ad287a41",
@@ -431,6 +439,14 @@
             }
         },
         {
+            "Key": "9c0ee659-b622-4959-b6fc-562fc6e841bf",
+            "Value": {
+                "id": "7d4d6378-3312-4486-acb2-89b38ea8c4db",
+                "resourcePath": "sprites\\spr_skeleton_up\\spr_skeleton_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a458a779-61fe-433a-ad56-eb965c7b9956",
             "Value": {
                 "id": "6b068343-41d9-4e45-9a83-4f3d3de5198f",
@@ -548,6 +564,14 @@
                 "id": "ba523b7c-825e-4199-b4c0-8ac660905ac5",
                 "resourcePath": "sounds\\hurt1\\hurt1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dbe964a7-04f0-46b8-a348-7ac05b1305d5",
+            "Value": {
+                "id": "0c387a7d-d425-4bb4-b86d-b713ddefcfb0",
+                "resourcePath": "sprites\\spr_skeleton_down\\spr_skeleton_down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
