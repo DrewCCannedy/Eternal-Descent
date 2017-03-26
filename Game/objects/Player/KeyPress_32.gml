@@ -15,17 +15,21 @@ if(canSwipe) {
 	if(Player.CharacterFacing == "right"){
 		swipe = instance_create_depth(x+offset,y,depth-5,PlayerSwipe);
 		swipe.sprite_index = spr_SwipeRight;
+		sprite_index = spr_Player_SlashRight;
 	}
 	if(Player.CharacterFacing == "left"){
 		swipe = instance_create_depth(x-offset,y,depth-5,PlayerSwipe);
 		swipe.sprite_index = spr_SwipeLeft;
+		sprite_index = spr_Player_SlashLeft;
 	}
 	if(Player.CharacterFacing == "up"){
 		swipe = instance_create_depth(x,y-offset,depth-5,PlayerSwipe);
 		swipe.sprite_index = spr_SwipeUp;
+		sprite_index = spr_Player_SlashUp;
 	}
 	if(Player.CharacterFacing == "down"){
 		swipe = instance_create_depth(x,y+offset,depth-5,PlayerSwipe);
 		swipe.sprite_index = spr_SwipeDown;
+		sprite_index = spr_Player_SlashDown;
 	}
 }

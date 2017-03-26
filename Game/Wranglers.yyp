@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "4a3f7676-ebce-401a-881a-01afb1439251",
+            "Value": {
+                "id": "e63416e5-8608-4832-af39-05723ac91cf6",
+                "resourcePath": "sprites\\spr_Player_SlashDown\\spr_Player_SlashDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4cff5aa9-921b-471e-9538-d12b804b4798",
             "Value": {
                 "id": "db0fb59b-383d-44e0-b75a-0cdf39904923",
@@ -335,6 +343,22 @@
             }
         },
         {
+            "Key": "7afd14ef-5abc-4005-ab2e-d887d3723755",
+            "Value": {
+                "id": "25c4f266-8e85-4713-a93d-9bcb1d119f2b",
+                "resourcePath": "sprites\\spr_Player_SlashRight\\spr_Player_SlashRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7df3a0d0-d5c3-41c4-ac38-40708e84bd59",
+            "Value": {
+                "id": "a057e14b-b0c3-4ed0-99e3-5ec751aea409",
+                "resourcePath": "sprites\\spr_Player_idle\\spr_Player_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7fd3e759-920f-4a05-adf1-3551c80a0293",
             "Value": {
                 "id": "80a01db2-0414-4aee-9737-90c2bf2d69a4",
@@ -439,6 +463,14 @@
             }
         },
         {
+            "Key": "cacb981a-4bc5-4b27-a510-aab64e646cde",
+            "Value": {
+                "id": "cb188446-d6ff-454b-ac69-d8a8137dd71c",
+                "resourcePath": "sprites\\spr_Player_SlashLeft\\spr_Player_SlashLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cae177bd-bbe2-40b5-a653-d0ca1ea60a58",
             "Value": {
                 "id": "e29d6593-81ce-44af-8f2a-0f83cd21a412",
@@ -460,6 +492,14 @@
                 "id": "0f124478-7157-4d2e-9fdc-09337fb99105",
                 "resourcePath": "views\\cd64db83-ae6e-4c0c-89be-9fa81ed03e3a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8d0f7f6-f741-4478-897e-d6f9fb610c28",
+            "Value": {
+                "id": "ad76cdc9-4ccf-43b6-b542-da9e0d0b0e1b",
+                "resourcePath": "sprites\\spr_Player_SlashUp\\spr_Player_SlashUp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
