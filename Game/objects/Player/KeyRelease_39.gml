@@ -1,4 +1,5 @@
-sprite_index = spr_Player_runRight
-image_index = 0;
-image_speed = 0;
-walking = false;
+if(canSwipe) {
+sprite_index = spr_Player_idleRight;
+}
+//image_index = 0;
+//image_speed = 0;
