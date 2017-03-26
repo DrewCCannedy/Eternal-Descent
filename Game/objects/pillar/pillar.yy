@@ -1,8 +1,8 @@
 {
-    "id": "fd97c825-98bc-4524-81d3-0a207ce18ea8",
+    "id": "1ac32e7c-41b8-4986-a0c0-cd849bfbb1e3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "CollisionArena",
+    "name": "pillar",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "f71075cc-7572-48a0-9d27-9f0b623c6b52",
-    "visible": false
+    "spriteId": "8bb7726f-762c-4792-b7be-e1f8a4ba1ddb",
+    "visible": true
 }
