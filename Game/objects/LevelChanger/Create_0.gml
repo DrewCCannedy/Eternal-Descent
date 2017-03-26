@@ -4,3 +4,4 @@ enemiesKilled = 0;
 level = 0;
 onLevel[0] = true;
 onLevel[1] = true;
+onLevel[2] = true;

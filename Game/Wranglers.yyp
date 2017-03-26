@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "61bb2682-c34b-475b-a838-d5ee44872127",
+            "Value": {
+                "id": "e7ac53e0-673a-4d51-b5f7-2a91a4cfbf38",
+                "resourcePath": "sounds\\swing2\\swing2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6473bb33-7e63-43bb-b151-43b8bf0d4bbd",
             "Value": {
                 "id": "e9699659-76bb-4e9c-b270-11d5c2a3eb01",
