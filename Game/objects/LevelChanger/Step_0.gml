@@ -4,12 +4,11 @@ if(level == 0){
 
 if(enemiesKilled == 1){
 	if(room_get_name(room) == "MainGame"){
-		room_goto_next();
-		//level = 1;
+		level = 1;
 	}
 }
 if(enemiesKilled == 3){
-	instance_create_depth(512,512,-10,WinScreen);
+	
 }
 
 if(level == 1){
@@ -22,10 +21,11 @@ if(level == 1){
 
 if!(instance_exists(Player)){
 	if(room_get_name(room) == "MainGame"){
-		room_goto(Menu);
+		room_goto(Upgrade);
 		enemiesKilled = 0;
 		level = 0;
 		onLevel[0] = true;
 		onLevel[1] = true;
 	}
 }
+
