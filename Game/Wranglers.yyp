@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "7f115d77-2b7e-4ff9-8a84-2bea39dde319",
+            "Value": {
+                "id": "2f34851d-a96a-4818-a649-47cdd191d638",
+                "resourcePath": "sprites\\spr_reviveScreen\\spr_reviveScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7fd3e759-920f-4a05-adf1-3551c80a0293",
             "Value": {
                 "id": "80a01db2-0414-4aee-9737-90c2bf2d69a4",
@@ -423,6 +431,14 @@
             }
         },
         {
+            "Key": "956fecf3-1f01-40c5-8394-417746b35668",
+            "Value": {
+                "id": "5b758cc6-9a1d-4ef6-be6f-4cacc51801d6",
+                "resourcePath": "rooms\\Dead\\Dead.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9a52a0d8-3067-46b3-a181-3ee277ab7b09",
             "Value": {
                 "id": "98fd350d-d124-4226-9e5f-d6bdb2673a65",
@@ -468,6 +484,14 @@
                 "id": "8d73c222-dca8-49d0-a4d9-887cfeed2659",
                 "resourcePath": "sprites\\spr_Play\\spr_Play.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1420c10-0618-41da-8e39-4988f39ccff6",
+            "Value": {
+                "id": "436b3c52-eb95-482c-aca5-9adf0612d776",
+                "resourcePath": "objects\\reviveButton\\reviveButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
