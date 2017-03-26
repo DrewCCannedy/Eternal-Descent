@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "8a8a6593-0b08-4599-8d9d-83ff40092295",
+            "Value": {
+                "id": "e1ddadaf-dd02-44df-89d2-13d30972cd3c",
+                "resourcePath": "sounds\\wranglers\\wranglers.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "908b789e-7644-4ac3-954e-d77b9245c842",
             "Value": {
                 "id": "20bee49e-bad9-414f-8e53-988c51c2456a",

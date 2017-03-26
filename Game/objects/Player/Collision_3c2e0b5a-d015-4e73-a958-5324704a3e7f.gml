@@ -1,7 +1,7 @@
 soundRand = irandom(2);
 
 if(swiped == false){
-	CharacterStats.CharacterHealth -= CharacterStats.CharacterDamage;
+	CharacterStats.CharacterHealth -= Enemy_Bow.CharacterDamage;
 	swiped = true;
 	if(soundRand == 1)
 		audio_play_sound(hurt1, 1,0);
