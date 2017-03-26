@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "ab95a3f0-39e5-4122-ad43-fd29029b7260",
+            "Value": {
+                "id": "5e622870-45e9-4f42-aa1d-7a383c7f2e4d",
+                "resourcePath": "rooms\\WinScreen\\WinScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b0400d16-43f9-4c41-9c9e-b548ecb3b3ce",
             "Value": {
                 "id": "8d73c222-dca8-49d0-a4d9-887cfeed2659",
@@ -516,6 +524,14 @@
                 "id": "1f4c002c-afae-48e5-9d24-a6ff98ac9f2c",
                 "resourcePath": "views\\b49106a8-01fe-4495-85c4-155716f3ed86.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b57071e0-9875-4108-8083-f0f51038637a",
+            "Value": {
+                "id": "fac9ce27-8d8c-4465-bade-c50ec7fd1a23",
+                "resourcePath": "sounds\\Loss_Screen\\Loss_Screen.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -636,6 +652,14 @@
                 "id": "822d04b3-92ae-43d8-9e48-7bab9a507461",
                 "resourcePath": "sounds\\mainTheme\\mainTheme.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e5a46707-e956-4979-8949-e0c03fe9ba3c",
+            "Value": {
+                "id": "6f65c006-7905-4468-b293-ca41ff271a75",
+                "resourcePath": "sprites\\spr_winScreen\\spr_winScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
