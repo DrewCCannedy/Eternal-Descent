@@ -1,4 +1,5 @@
 if(canSwipe) {
+	walking = true;
 	x +=CharacterStats.CharacterSpeed;
 	CharacterFacing = "right";
 	sprite_index = spr_Player_runRight;

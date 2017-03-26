@@ -1,14 +1,17 @@
 offset = 50;
-randSound = irandom(1);
+randSound = irandom(2);
 CharacterStats.CharacterSpeed = 0;
 alarm[5] = 13;
 lastSprite = sprite_index;
 lastSpeed = image_speed;
+walking = false;
 
 if(canSwipe) {
 	image_speed = 1;
 	if(randSound == 0)
 		audio_play_sound(swing1, 1, 0);
+	else if(randSound == 1)
+		audio_play_sound(swing3, 1, 0);
 	else
 		audio_play_sound(swing2, 1, 0);
 	canSwipe = false;
