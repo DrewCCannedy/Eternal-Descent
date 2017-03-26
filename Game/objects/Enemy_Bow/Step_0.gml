@@ -29,5 +29,6 @@ if(instance_exists(Player)){
 	if(CharacterHealth <= 0){
 		instance_destroy();
 		LevelChanger.enemiesKilled +=1;
+		CharacterStats.CharacterXP +=1;
 	}
 }

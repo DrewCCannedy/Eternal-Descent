@@ -1,4 +1,5 @@
 if(upgradePoints > 0){
-	CharacterHealth += 1;
+	show_debug_message("upgraded");
+	MaxHP += 1;
 	upgradePoints -= 1;
 }
