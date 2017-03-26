@@ -1,4 +1,4 @@
-if(canSwipe) {	
+if(canSwipe = true && dying = false) {	
 	walking = true;
 	x += -CharacterStats.CharacterSpeed;
 	CharacterFacing = "left";

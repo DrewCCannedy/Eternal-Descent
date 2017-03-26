@@ -1,4 +1,5 @@
 CharacterFacing = "right";
+dying = false;
 swiped = false;
 canSwipe = true;
 walking = false;
