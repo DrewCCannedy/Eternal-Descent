@@ -21,7 +21,7 @@ if(instance_exists(Player)){
 		}
 	}
 
-	if(attacks >= CharacterAttackSpeed and (x > Player.x-offset*2 and
+	if(attacks > CharacterAttackSpeed and (x > Player.x-offset*2 and
 						x < Player.x+offset*2) or (y < Player.y-offset*2 and
 						y > Player.y+offset*2))
 		Enemy_Bow_Attack();

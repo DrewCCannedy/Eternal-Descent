@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "6c98d2a7-2d56-4af4-93ba-e52856425e10",
+            "Value": {
+                "id": "13793890-b6b8-44a5-b072-0057febeff07",
+                "resourcePath": "objects\\CharacterStats\\CharacterStats.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6f44ca4b-1236-4adc-874e-0ea0363f8a10",
             "Value": {
                 "id": "8b31f3d1-6e9b-41e4-8364-bce5f6f1d1cd",

@@ -23,6 +23,8 @@ if!(instance_exists(Player)){
 	if(room_get_name(room) == "MainGame"){
 		room_goto(Upgrade);
 		enemiesKilled = 0;
+		CharacterStats.CharacterHealth = CharacterStats.MaxHP;
+		CharacterStats.CharacterSpeed = CharacterStats.MaxSpeed;
 		level = 0;
 		onLevel[0] = true;
 		onLevel[1] = true;

@@ -1,8 +1,6 @@
-CharacterHealth = 10;
-CharacterSpeed = 5;
-CharacterDamage = 3;
 CharacterFacing = "right";
 swiped = false;
+canSwipe = true;
 
 x=room_width/2 + 10;
 y=room_height/2 - 20;

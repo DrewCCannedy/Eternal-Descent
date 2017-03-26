@@ -1,4 +1,4 @@
 if(swiped == false){
-	CharacterHealth -= Player.CharacterDamage;
+	CharacterStats.CharacterHealth -= CharacterStats.CharacterDamage;
 	swiped = true;
 }

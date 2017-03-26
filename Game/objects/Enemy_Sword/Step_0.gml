@@ -1,5 +1,5 @@
 //Moves towards the player
-offset = 64;//ammount he stays away from player
+offset = 0;//ammount he stays away from player
 attacks = irandom(100);
 if(instance_exists(Player)){
 	EnemyMovement(){
@@ -21,10 +21,10 @@ if(instance_exists(Player)){
 		}
 	}
 
-	if(attacks >= CharacterAttackSpeed and (x > Player.x-offset and
-						x < Player.x+offset) or (y < Player.y-offset and
-						y > Player.y+offset))//determines when the enemy attacks
-		Enemy_Sword_Attack();
+	//if(attacks >= CharacterAttackSpeed and (x > Player.x-offset and
+	//					x < Player.x+offset) or (y < Player.y-offset and
+	//					y > Player.y+offset))//determines when the enemy attacks
+	//	Enemy_Sword_Attack();
 
 	if(CharacterHealth <= 0){
 		instance_destroy();
