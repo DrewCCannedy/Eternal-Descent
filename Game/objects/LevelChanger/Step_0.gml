@@ -34,7 +34,7 @@ if(level == 2){
 if!(instance_exists(Player)){
 	CharacterStats.upgradePoints += enemiesKilled;
 	if(room_get_name(room) == "MainGame"){
-		room_goto(Upgrade);
+		room_goto_next();
 		enemiesKilled = 0;
 		CharacterStats.CharacterHealth = CharacterStats.MaxHP;
 		CharacterStats.CharacterSpeed = CharacterStats.MaxSpeed;
