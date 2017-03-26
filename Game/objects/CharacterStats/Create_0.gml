@@ -1,9 +1,11 @@
-CharacterHealth = 3;
-CharacterSpeed = 5;
-CharacterDamage = 1;
-CharacterYell = 1;
+CharacterStats.CharacterHealth = 3;
+CharacterStats.CharacterSpeed = 5;
+CharacterStats.CharacterDamage = 1;
+CharacterStats.CharacterYell = 1;
 
-CharacterXP = 0;
+CharacterStats.CharacterXP = 0;
 
-MaxHP = 3;
-MaxSpeed = 5;
+CharacterStats.MaxHP = 3;
+CharacterStats.MaxSpeed = 5;
+
+CharacterStats.upgradePoints = 0;

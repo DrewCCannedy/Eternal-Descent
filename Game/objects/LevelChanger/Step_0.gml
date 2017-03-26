@@ -32,6 +32,7 @@ if(level == 2){
 }
 
 if!(instance_exists(Player)){
+	CharacterStats.upgradePoints += enemiesKilled;
 	if(room_get_name(room) == "MainGame"){
 		room_goto(Upgrade);
 		enemiesKilled = 0;

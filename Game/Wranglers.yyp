@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "4e17ddf1-9834-4669-96b5-6b8c3c9fa626",
-            "Value": {
-                "id": "5c8dd1f7-70a2-4b7a-835c-b3b623f33559",
-                "resourcePath": "objects\\NameGenerator\\NameGenerator.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4ed4cc51-f578-4945-8db5-3ed3f4f56fe0",
             "Value": {
                 "id": "9a739265-4f26-40de-b1a8-1014c8652be2",
@@ -412,6 +404,14 @@
                 "id": "ae9de73a-9018-4c50-b137-3654bb19341e",
                 "resourcePath": "sprites\\spr_Player_runDown\\spr_Player_runDown.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8a8a6593-0b08-4599-8d9d-83ff40092295",
+            "Value": {
+                "id": "e1ddadaf-dd02-44df-89d2-13d30972cd3c",
+                "resourcePath": "sounds\\wranglers\\wranglers.yy",
+                "resourceType": "GMSound"
             }
         },
         {
