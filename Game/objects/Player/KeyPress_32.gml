@@ -6,6 +6,7 @@ lastSpeed = image_speed;
 
 if(canSwipe) {
 	image_speed = 1;
+	audio_play_sound(swing1, 1, 0);
 	canSwipe = false;
 	if(Player.CharacterFacing == "right"){
 		swipe = instance_create_depth(x+offset,y,depth-5,PlayerSwipe);

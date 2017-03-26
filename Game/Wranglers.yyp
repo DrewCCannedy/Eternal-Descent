@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "142c5d06-28d3-4dc0-812f-40cf0c64bc19",
+            "Value": {
+                "id": "c7d6d368-ac34-414d-9ff2-730995812f2f",
+                "resourcePath": "sounds\\hurt2\\hurt2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "14689e88-3636-4153-86f6-989710329614",
             "Value": {
                 "id": "6a0b7c50-4ffe-489f-9327-60c0461ad1e7",
@@ -175,6 +183,22 @@
             }
         },
         {
+            "Key": "48d4a083-32fd-4437-a26f-a7eada504af4",
+            "Value": {
+                "id": "c7a6b43a-258a-4527-a13b-6a052bce3fa4",
+                "resourcePath": "sounds\\impact1\\impact1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4c3a8cb8-aa36-48fe-8136-31ce9b94cfc6",
+            "Value": {
+                "id": "7493190b-a1c1-43e5-b7ef-47444983b30e",
+                "resourcePath": "sounds\\hurt1\\hurt1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4cff5aa9-921b-471e-9538-d12b804b4798",
             "Value": {
                 "id": "db0fb59b-383d-44e0-b75a-0cdf39904923",
@@ -255,6 +279,22 @@
             }
         },
         {
+            "Key": "6947ce6b-1137-4045-a3b4-9d5fc7ea6450",
+            "Value": {
+                "id": "3b119a97-fba6-4a2e-accb-0c6e297048bd",
+                "resourcePath": "sounds\\swing1\\swing1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6b4b06c2-9348-4862-9237-31c2e0d0c0eb",
+            "Value": {
+                "id": "03ffae10-d64a-4f45-bcd8-9af310de99c1",
+                "resourcePath": "sounds\\impact2\\impact2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6c98d2a7-2d56-4af4-93ba-e52856425e10",
             "Value": {
                 "id": "13793890-b6b8-44a5-b072-0057febeff07",
@@ -324,6 +364,14 @@
                 "id": "98fd350d-d124-4226-9e5f-d6bdb2673a65",
                 "resourcePath": "sprites\\spr_SwipeUp\\spr_SwipeUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3a1f73f-91c7-47eb-b7d7-835eadd74924",
+            "Value": {
+                "id": "650fce69-0461-407e-8a26-4c0fb0135cb3",
+                "resourcePath": "views\\a3a1f73f-91c7-47eb-b7d7-835eadd74924.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -428,6 +476,14 @@
                 "id": "0bcfdaed-c417-4a28-a020-388a9bea53d0",
                 "resourcePath": "rooms\\MainGame\\MainGame.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f3753f17-09f6-463e-8184-2d9d22c08d1e",
+            "Value": {
+                "id": "5c3595df-071b-43cc-b047-a4c0894fef3b",
+                "resourcePath": "sounds\\hurt3\\hurt3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
