@@ -5,3 +5,5 @@ CharacterYell = 1;
 
 MaxHP = 3;
 MaxSpeed = 5;
+
+upgradePoints = 0;
