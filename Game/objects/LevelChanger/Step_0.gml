@@ -3,10 +3,12 @@ if(level == 0){
 }
 
 if(enemiesKilled == 1){
-	level = 1;
+	if(room_get_name(room) == "MainGame"){
+		room_goto_next();
+		//level = 1;
+	}
 }
 if(enemiesKilled == 3){
-	show_debug_message("heybud");
 	instance_create_depth(512,512,-10,WinScreen);
 }
 

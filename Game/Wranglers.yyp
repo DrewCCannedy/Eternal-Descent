@@ -135,11 +135,27 @@
             }
         },
         {
+            "Key": "43bb6d7c-0d98-4d2e-bbc5-d2e13569c84c",
+            "Value": {
+                "id": "12a02830-6cce-4a0d-8b47-2373e550ad51",
+                "resourcePath": "rooms\\Upgrade\\Upgrade.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "47e2441e-f977-451a-bc7b-be75476b4c50",
             "Value": {
                 "id": "44ce66d6-268a-448e-b21c-4704deadcad7",
                 "resourcePath": "objects\\LevelChanger\\LevelChanger.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "484b2f49-3063-4acb-b2c5-069c88bc6907",
+            "Value": {
+                "id": "8ceb76ee-bab1-49f4-924e-df5d66b79ecf",
+                "resourcePath": "sprites\\spr_Upgrade\\spr_Upgrade.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
