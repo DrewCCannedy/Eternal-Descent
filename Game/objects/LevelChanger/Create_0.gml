@@ -11,3 +11,5 @@ audio_play_sound(Load_Up, 1, 0);
 audio_play_sound(wranglers, 1, 0);
 audio_sound_gain(Load_Up, .3, 0);
 audio_play_sound(Loss_Screen,1,true);
+canWin = true;
+drawn = true;

@@ -1,5 +1,5 @@
 //Moves towards the player
-offset = 0;//ammount he stays away from player
+offset = 32;//ammount he stays away from player
 attacks = irandom(100);
 if(instance_exists(Player)){
 	EnemyMovement(){

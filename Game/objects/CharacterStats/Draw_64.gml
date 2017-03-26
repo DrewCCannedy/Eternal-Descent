@@ -1,7 +1,10 @@
 draw_set_font(fnt_pixelsplitter);
+draw_set_color(c_white);
 
 xx = 95;
 if(room_get_name(room) == "Upgrade") {
+
+	draw_text(xx,175,"Points Remaining: " + string(CharacterStats.upgradePoints));
 	//speed
 	speedButton = MaxSpeed - 5;
 	draw_sprite(spr_buttons,speedButton,xx,240);

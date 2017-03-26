@@ -1,5 +1,11 @@
+if(instance_exists(Player)){
+xx = Player.x;
+yy = Player.y;
+}
+
 if(level == 0){
-	//yeah
+	
+
 }
 
 if(enemiesKilled == 1){
@@ -19,7 +25,7 @@ if(enemiesKilled == 7){
 }
 if(enemiesKilled == 15){
 	if(room_get_name(room) == "MainGame"){
-		show_debug_message("RAB");
+		audio_pause_sound(mainTheme);
 		room_goto(WinScreen);
 	}
 }
@@ -59,6 +65,10 @@ if!(instance_exists(Player)){
 	CharacterStats.upgradePoints += enemiesKilled;
 	if(room_get_name(room) == "MainGame"){
 		room_goto_next();
+		//if(drawn){
+		//	draw_sprite(spr_Player_Death,0,xx,yy);
+		//	alarm[1] = 15;
+		//}
 		enemiesKilled = 0;
 		CharacterStats.CharacterHealth = CharacterStats.MaxHP;
 		CharacterStats.CharacterSpeed = CharacterStats.MaxSpeed;
@@ -66,6 +76,8 @@ if!(instance_exists(Player)){
 		onLevel[0] = true;
 		onLevel[1] = true;
 		onLevel[2] = true;
+		onLevel[3] = true;
+		drawn = false;
 	}
 }
 if(room_get_name(room) == "Dead" or room_get_name(room) == "Upgrade"){
@@ -76,3 +88,13 @@ else{
 	audio_pause_sound(Loss_Screen);
 	audio_resume_sound(mainTheme);
 }
+if(room_get_name(room) == "WinScreen"){
+	
+	audio_pause_sound(mainTheme);
+	if(canWin){
+		audio_play_sound(Win_Screen, 1, true);
+		canWin = false;
+	}
+}
+else
+	audio_pause_sound(Win_Screen);

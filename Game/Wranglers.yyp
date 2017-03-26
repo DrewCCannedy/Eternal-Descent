@@ -743,11 +743,27 @@
             }
         },
         {
+            "Key": "fd91e819-fc58-42b8-9928-03e5b52e554e",
+            "Value": {
+                "id": "031af8ce-e9ae-45d8-9f9e-16934d75e308",
+                "resourcePath": "sounds\\Win_Screen\\Win_Screen.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "fd97c825-98bc-4524-81d3-0a207ce18ea8",
             "Value": {
                 "id": "f94cd29b-c06b-496c-8db1-215189f1268a",
                 "resourcePath": "objects\\CollisionArena\\CollisionArena.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "feef05ca-bb68-48bb-8b27-0d3b09fa6f40",
+            "Value": {
+                "id": "d8105548-2af9-4869-856e-285666162f14",
+                "resourcePath": "sprites\\win_screeny\\win_screeny.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
