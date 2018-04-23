@@ -1,15 +1,13 @@
-1.Player Character
-	Movement
-	Attack
-	Skills (?)
+A 2D Hack-n-Slash made in Gamemaker 2 during a Game Jam. 
 
-2. Enemies
-	Different types
-	Attack
+SUMMARY:
+A gladiator fights off waves of enemies until he inevitably dies. 
+He ressurects stronger and stronger until he is able to defeat all enemies.
 
-3. Upgrade System
-	Improve with each child
-
-4. Legacy System
-	New kid emerges with new shit
-
+TEAM: 
+Drew Cannedy - Code/Sound
+Matt Strack - Code
+Chad Austin - Art
+Sam Lopez - Art
+Noah Whitehead - Sound
+Kevin Vanhorn - Art/Code
