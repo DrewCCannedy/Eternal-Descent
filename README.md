@@ -4,6 +4,10 @@
 A gladiator fights off waves of enemies until he inevitably dies. 
 He ressurects stronger and stronger until he is able to defeat all enemies.
 
+## Instructions:
+Unzip the Eternal-Descent folder
+Run the Eteral-Descent.exe
+
 ## TEAM: 
 **Drew Cannedy** - Code/Sound<br />
 **Matt Strack** - Code<br />
